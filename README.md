@@ -1,0 +1,2 @@
+# sql-data-base-building
+DATA CLEANING AND SQL QUERING PROJECT
