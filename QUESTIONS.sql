@@ -1,28 +1,28 @@
 --PREGUNTAS DE SELECT Y JOIN
--- 1. ¿Qué cliente se ha llevado x película? (Fran) HECHO
--- 2. ¿Qué películas se corresponde con x género? (Héctor)  HECHO
--- 3. Qué actores salen en x película? (Lucía)  HECHO
--- 4. ¿En qué idioma están las películas? (Marcos)  HECHO
+-- 1. ¿Qué cliente se ha llevado x película? 
+-- 2. ¿Qué películas se corresponde con x género? 
+-- 3. Qué actores salen en x película? 
+-- 4. ¿En qué idioma están las películas?
 
 -- PREGUNTAS DE GROUP BY Y ORDER BY 
 -- 5. Agrúpame las películas por film_id e inventario
--- con nombre de la película (Fran)  HECHO
+-- con nombre de la película
 
 
 -- 6. Agrúpame los actores por actor_id con título
--- de película y ordenalos por género del film. (Lucía)  HECHO
+-- de película y ordenalos por género del film. 
 
 -- PREGUNTAS DE OPERADORES
 
 
--- 7. Súmame el número de film por idioma. (Marcos) HECHO
+-- 7. Súmame el número de film por idioma. 
 -- 8. hazme una media de los días que las películas
--- han estado alquiladas. (Héctor)  HECHO
--- 9. TOP 20 de las  películas más alquiladas. (Lucía) HECHO
+-- han estado alquiladas. 
+-- 9. TOP 20 de las  películas más alquiladas. 
 --ÚNICA PREGUNTA DE TABLA DERIVADA
 
 --10. Hazme una suma de films por idiomas y la media
--- de idiomas. (Héctor)  HECHO
+-- de idiomas. 
 
 
 -- QUESTION 1
